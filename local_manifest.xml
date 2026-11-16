@@ -3,7 +3,7 @@
 	<remote name="Fiyuu" fetch="https://github.com/kitsunee02" />
 	<remote name="gh" fetch="https://github.com" />
 
-	<project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="Fiyuu" revision="lineage-21" />
+	<project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="Fiyuu" revision="afterlife14" />
 	<project name="AsTechpro20/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="14-1" />
 	<project name="AsTechpro20/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="gh" revision="main" />
 	<project name="AsTechpro20/proprietary_vendor_xiaomi_blossom" path="vendor/xiaomi/blossom" remote="gh" revision="Udon_v2" />
