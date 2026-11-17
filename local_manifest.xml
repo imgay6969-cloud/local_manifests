@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	
-	<remote name="Fiyuu" fetch="https://github.com/kitsunee02" /> 
+	<remote name="Fiyuu" fetch="https://github.com/imgay6969-cloud" /> 
 	<remote name="gh" fetch="https://github.com" />
 	<remote name="gitlab1" fetch="https://gitlab.com" />
 	<remote name="lineage" fetch="https://github.com/LineageOS" />
 	
-	<project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="Fiyuu" revision="lineage-22.2" />
+	<project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="Fiyuu" revision="A15" />
 	
 	<project name="Jayedkhan800/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="lineage-22" />
 	
